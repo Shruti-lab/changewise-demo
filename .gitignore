@@ -1,0 +1,10 @@
+policy-docs
+.env
+venv
+
+# Never commit credentials or secrets
+*.pem
+*.key
+*.crt
+.env
+.secret*

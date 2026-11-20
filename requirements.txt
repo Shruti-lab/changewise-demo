@@ -1,0 +1,3 @@
+# No runtime dependencies for the demo service.
+# (The ingestion job uses PyDriller, psycopg2, boto3, etc. – those are
+# installed on the VSI, not in this repo.)

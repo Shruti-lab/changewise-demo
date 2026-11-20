@@ -1,0 +1,1 @@
+# Empty – required only so that `service` is a proper package.
